@@ -1,1 +1,1 @@
-# yt-video-downloader
+Simple Python coding project.
